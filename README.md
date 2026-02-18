@@ -14,7 +14,7 @@
 
 Bu proje, eğitim teknolojilerini oyun mekanikleriyle birleştirmek amacıyla iki ana mimar tarafından geliştirilmiştir:
 
-* **Ata (Visual Architect):** Görsel tasarım, CSS animasyonları, sahne yönetimi ve kullanıcı deneyimi (UX).
+* **Ata(ata.dev) (Visual Architect):** Görsel tasarım, CSS animasyonları, sahne yönetimi ve kullanıcı deneyimi (UX).
 * **Nadir (Systems Engineer):** Çekirdek oyun mantığı, Web Audio API entegrasyonu, veri havuzu yönetimi ve 12 saniyelik "Düşünme Barı" algoritması.
 
 ---
