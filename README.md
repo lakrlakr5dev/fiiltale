@@ -45,7 +45,7 @@ Oyun tek bir HTML dosyası içinde tüm mantığı barındırır. Çalıştırma
 1.  `index.html` dosyasını indirin.
 2.  Modern bir tarayıcıda (Chrome, Brave, Edge) dosyaya çift tıklayın.
 3.  Müzik ve seslerin başlaması için ekrana bir kez tıklayın.
-4.  Veya larlakr5dev.github.io/fiiltale adresine gidin
+4.  Veya [FiilTale Web](https://lakrlakr5dev.github.io/fiiltale) adresine gidin
 
 ```javascript
 // Motorun çekirdek yapısı
