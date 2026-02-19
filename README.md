@@ -1,4 +1,4 @@
-# ❤️ FiilTale: Determination (v6.0)
+# ❤️ FiilTale: Determination (V2)
 
 ![FiilTale Banner](https://img.shields.io/badge/Engine-Underground_v6.0-red?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Stable-green?style=for-the-badge)
